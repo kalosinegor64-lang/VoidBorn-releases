@@ -55,7 +55,7 @@ For issues and questions, please use the [GitHub Issues](https://github.com/kalo
 
 ---
 
-Made with ❤️ by rezzzkero
+Made with rezzzkero
 
 
 
